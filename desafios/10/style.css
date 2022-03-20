@@ -1,0 +1,114 @@
+@charset "utf-8";
+
+body{
+    background-color: #A1F7AA;
+   
+}
+ header{
+     background-color:#74ED80;
+     background-image: linear-gradient(to top,#74ED80,rgba(72, 173, 112, 0.308));
+     padding: 30px;
+     text-align: center;
+     color: aliceblue;
+     min-width: 320;
+   ;}
+
+ 
+ header>p {
+     text-align: center;
+     
+ }
+ nav {
+     text-align: left;
+     color: aliceblue;
+     
+     
+ }
+ a:link, a:visited {
+	text-decoration: none
+	}
+    a:active {
+        text-decoration: none
+        }
+        @font-face{
+        font-family :'Adroid';
+        src: url('Android.ttf') format('truetype'); 
+        
+       }
+
+       h1{
+           font-family: 'Adroid' ,Arial, Helvetica, sans-serif;
+           text-align: center;
+           
+       }
+        
+
+            div{
+                background-color: aliceblue;
+                border-width: 50px;
+                margin-left: 500px;
+                margin-right: 500px;
+                text-align: center;
+                text-indent: 20px;
+            
+        }
+                
+
+                p{
+                    text-align: justify;
+                    margin-left: 10px;
+                    margin-right: 10px;
+                }
+
+                h2{
+                    background-color: #79F786;
+                    font-family: 'Adroid' ,Arial, Helvetica, sans-serif;
+                    text-align:left;
+                   
+                }
+
+                iframe{
+                    
+                    border-width: 1px;
+                    border-style: solid;
+                    border-color: #468f4d;
+                    
+                }
+            
+                h3{
+                    background-color: #74ED80;
+                    text-align: left;
+                    color: aliceblue;
+                    padding-top: 10px;
+                    border-radius: 19px 19px 0px 0px
+                }
+                #ultimo{ background-color: #C6F7AA;
+                    border-width: 50px;
+                    margin-left: 50px;
+                    margin-right: 50px;
+                    border-radius: 19px;
+                    padding-bottom: 20px;
+
+                }
+                .paragrafo{
+                    margin-block-end: 20px;
+                    padding-bottom: 20px;
+                }
+                footer{
+                    text-align: center;
+                    background-color: #468f4d;
+                    color: aliceblue;
+                }
+
+                    .paragrafo01{ font-family: 'Adroid' ,Arial, Helvetica, sans-serif;
+                                text-align: left;
+                    }
+
+
+    
+                    }
+  
+            
+            
+
+            
